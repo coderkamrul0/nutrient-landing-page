@@ -3,6 +3,7 @@ import HeroSection from "../../components/HeroSection/HeroSection";
 import Services from "../../components/Services/Services";
 import TrustedSection from "../../components/TrustedSection/TrustedSection";
 import ProductSection from "../../components/ProductSection/ProductSection";
+import Testimonials from "../../components/Testimonials/Testimonials";
 
 
 const Home = () => {
@@ -18,6 +19,7 @@ const Home = () => {
             <Services/>
             <TrustedSection/>
             <ProductSection/>
+            <Testimonials/>
         </div>
       </div>
     </div>
