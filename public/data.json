@@ -1,0 +1,195 @@
+[
+    {
+      "id": "1",
+      "name": "Apple",
+      "price": 1.99,
+      "rating": 4.5,
+      "image": "https://i.ibb.co/s64w1F1/pngwing-com-16.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "2",
+      "name": "Broccoli",
+      "price": 0.99,
+      "rating": 3.8,
+      "image": "https://i.ibb.co/yhXJfXw/pngwing-com-17.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "3",
+      "name": "Orange",
+      "price": 1.49,
+      "rating": 4.2,
+      "image": "https://i.ibb.co/rZ5xbhT/pngwing-com-18.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "4",
+      "name": "Carrot",
+      "price": 0.79,
+      "rating": 4.0,
+      "image": "https://i.ibb.co/485sngH/pngwing-com-19.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "5",
+      "name": "Banana",
+      "price": 0.69,
+      "rating": 4.6,
+      "image": "https://i.ibb.co/9q82TVQ/pngwing-com-20.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "6",
+      "name": "Cucumber",
+      "price": 0.89,
+      "rating": 4.1,
+      "image": "https://i.ibb.co/c8v67Z8/pngwing-com-21.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "7",
+      "name": "Grapes",
+      "price": 2.99,
+      "rating": 4.4,
+      "image": "https://i.ibb.co/hVpnTpt/pngwing-com-22.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "8",
+      "name": "Spinach",
+      "price": 1.29,
+      "rating": 4.3,
+      "image": "https://i.ibb.co/f1dC527/pngwing-com-23.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "9",
+      "name": "Pineapple",
+      "price": 2.49,
+      "rating": 4.7,
+      "image": "https://i.ibb.co/3TLCWfx/pngwing-com-24.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "10",
+      "name": "Tomato",
+      "price": 0.99,
+      "rating": 3.9,
+      "image": "https://i.ibb.co/Zxh63P8/pngwing-com-25.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "11",
+      "name": "Strawberries",
+      "price": 3.99,
+      "rating": 4.8,
+      "image": "https://i.ibb.co/5nHr728/pngwing-com-27.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "12",
+      "name": "Lettuce",
+      "price": 1.49,
+      "rating": 4.2,
+      "image": "https://i.ibb.co/v3pPPs5/pngwing-com-26.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "13",
+      "name": "Mango",
+      "price": 2.99,
+      "rating": 4.6,
+      "image": "https://i.ibb.co/ZWYbfGW/pngwing-com-29.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "14",
+      "name": "Bell Pepper",
+      "price": 0.99,
+      "rating": 4.0,
+      "image": "https://i.ibb.co/S7nJ6Mk/pngwing-com-30.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "15",
+      "name": "Peach",
+      "price": 1.99,
+      "rating": 4.3,
+      "image": "https://i.ibb.co/7nnQsP8/pngwing-com-31.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "16",
+      "name": "Potato",
+      "price": 0.69,
+      "rating": 3.8,
+      "image": "https://i.ibb.co/B6nt1r7/pngwing-com-32.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "17",
+      "name": "Watermelon",
+      "price": 2.99,
+      "rating": 4.5,
+      "image": "https://i.ibb.co/1zZJsfM/pngwing-com-33.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "18",
+      "name": "Onion",
+      "price": 0.79,
+      "rating": 3.9,
+      "image": "https://i.ibb.co/Q6YhnG0/pngwing-com-34.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "19",
+      "name": "Blueberries",
+      "price": 3.49,
+      "rating": 4.4,
+      "image": "https://i.ibb.co/Bc1bnMD/pngwing-com-35.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "20",
+      "name": "Cabbage",
+      "price": 1.19,
+      "rating": 4.1,
+      "image": "https://i.ibb.co/nLYLNt4/pngwing-com-36.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "21",
+      "name": "Kiwi",
+      "price": 1.99,
+      "rating": 4.6,
+      "image": "https://i.ibb.co/ZGSwD60/pngwing-com-37.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "22",
+      "name": "Zucchini",
+      "price": 0.89,
+      "rating": 4.2,
+      "image": "https://i.ibb.co/F6s5x2V/pngwing-com-38.png",
+      "category": "Vegetable"
+    },
+    {
+      "id": "23",
+      "name": "Raspberries",
+      "price": 4.99,
+      "rating": 4.8,
+      "image": "https://i.ibb.co/qM3FJBW/pngwing-com-39.png",
+      "category": "Fruit"
+    },
+    {
+      "id": "24",
+      "name": "Asparagus",
+      "price": 1.49,
+      "rating": 4.3,
+      "image": "https://i.ibb.co/gy90pnX/pngwing-com-40.png",
+      "category": "Vegetable"
+    }
+  ]
+  
