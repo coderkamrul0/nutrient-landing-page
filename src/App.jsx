@@ -11,7 +11,9 @@ function App() {
     <div>
       <Navbar/>
       <Outlet/>
+      <div className='bg-[#F3F5F5] py-10'>
       <Footer/>
+      </div>
     </div>
   )
 }
